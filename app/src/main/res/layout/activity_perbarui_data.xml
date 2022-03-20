@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="8dp"
+    android:orientation="vertical"
+    tools:context=".PerbaruiDataData">
+    <EditText
+        android:id="@+id/new_kode_buku"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Kode Buku Baru"
+        android:inputType="textPersonName" />
+    <EditText
+        android:id="@+id/new_nama_buku"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Nama Buku Baru"
+        android:inputType="textPersonName" />
+    <EditText
+        android:id="@+id/new_penerbit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Penerbit Baru"
+        android:inputType="textPersonName" />
+    <Button
+        android:id="@+id/update"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="perbarui" />
+</LinearLayout>

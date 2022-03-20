@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "680236204387",
+    "project_id": "tugasuts-databuku",
+    "storage_bucket": "tugasuts-databuku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680236204387:android:3bb8a2e9f03ae288c75356",
+        "android_client_info": {
+          "package_name": "com.yulianti.tugasuts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680236204387-nge39vu0v47u4t0bh4bdsonee43uvlp9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yulianti.tugasuts",
+            "certificate_hash": "998db36e0f7d37cbd5b09b6e7b813842f3606d02"
+          }
+        },
+        {
+          "client_id": "680236204387-95d48ahd2f7s25gcjsubtn70l3qjdddu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Zk17wTfwum-tYX8AGXr8cTFny7XjdOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680236204387-95d48ahd2f7s25gcjsubtn70l3qjdddu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
